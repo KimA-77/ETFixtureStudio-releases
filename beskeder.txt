@@ -1,0 +1,13 @@
+# Beskeder fra Edge-Team – vises øverst i ET Fixture Studio (fra version 0.6.3)
+#
+# Én besked pr. linje:   fra | til | tekst | link (valgfrit)
+#   - datoer som åååå-mm-dd, begge dage er med
+#   - linket skal starte med https://
+#   - står flere beskeder aktive samtidig, vises den øverste først (den næste, når brugeren lukker den)
+#   - en lukket besked vises ikke igen hos den bruger; rettes teksten, vises den igen
+#   - linjer, der starter med #, bruges ikke
+#   - en besked til både ET Holder Studio og ET Fixture Studio skal også skrives i ETHolderStudio-releases/beskeder.txt
+#
+# Eksempler (fjern # for at bruge dem):
+# 2026-11-09 | 2026-11-30 | Husk at tilmelde dig ETUX 2027 | https://www.edge-team.dk
+# 2026-12-07 | 2026-12-11 | Husk: vi har kursus i denne uge
